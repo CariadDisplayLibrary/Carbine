@@ -12,4 +12,4 @@ XBSC-Group: DisplayCore
 XBSC-Subgroup: Fonts
 Depends: libdisplaycore-core
 Provides: Carbine.h
-Description: Carbine font for DisplayCore
+Description: Carbine
