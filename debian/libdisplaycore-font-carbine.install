@@ -1,2 +1,2 @@
-Carbine.cpp libraries/DisplayCore/Carbine
-Carbine.h libraries/DisplayCore/Carbine
+src libraries/DisplayCore/Carbine
+library.properties libraries/DisplayCore/Carbine
